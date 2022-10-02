@@ -1,5 +1,4 @@
-# game-site
-oyun sitesi kanka :D
+
 
 Ne olduğunu açıklamama gerek yok.
 
